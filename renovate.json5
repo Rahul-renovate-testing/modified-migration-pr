@@ -1,0 +1,4 @@
+{
+  "extends": "config:base", // some comment
+  "configMigration": true
+}
