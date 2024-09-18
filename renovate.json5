@@ -1,5 +1,7 @@
 {
   // some comment
-  "extends": "config:base",
-  "configMigration": true
+  extends: [
+    'config:recommended',
+  ],
+  configMigration: true,
 }
